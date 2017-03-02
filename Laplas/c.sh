@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-export FILE_NAME="Laplas.c"
+export FILE_NAME="laplas1.c"
 export FILE_NAME_OUT="Laplasexe1"
 
 export MPICH2_ROOT="/opt/mpich2/gnu"
