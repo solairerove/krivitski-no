@@ -11,12 +11,15 @@ main()
     float u[X+1][T+1], h=1.0, k=0.0125,c,al,us,ue;
     int j,i;
     printf("\n Enter the square of 'c' :");
-    scanf("%f",&c);
+//    scanf("%f",&c);
+    c = 4;
     al=c*k/pow(h,2);
     printf(" Enter the value of u[0, t] :");
-    scanf("%f",&us);
+    //scanf("%f",&us);
+    us = 0;
     printf("  Enter the value of u[%d,t]:", X);
-    scanf("%f",&ue);
+    //scanf("%f",&ue);
+    ue = 0;
     for(i=0;i<=T;i++)
     u[0][i]=u[X][i]=us;
     for(j=1;j<=X-1;j++)
