@@ -151,18 +151,3 @@ else
 fclose(prtmp);
 return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
