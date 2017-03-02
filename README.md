@@ -1,2 +1,6 @@
 # nikitin
-the shit mk2
+the shit Mk2
+
+## How copy shit to local dir
+
+`scp -rp grsu0005@skif.grsu.by:/home/grsu0005/krivitski-no /home/solairerove/workspace/nikitin/`
