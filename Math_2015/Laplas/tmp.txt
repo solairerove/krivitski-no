@@ -1,0 +1,15 @@
+number of tasks=     4
+N=    20
+leftT=   2.0
+upT=   3.0
+rightT=   4.0
+downT=   5.0
+startT=   8.0
+errorT=   1.0
+
+blocks number=  4
+rows in block=     4
+rows in last block=     7
+maximum iterations=     100
+iteration count=         0
+
