@@ -1,5 +1,5 @@
 # nikitin
-the shit Mk2
+[the shit Mk2](https://github.com/solairerove/theshit)
 
 ## How copy shit to local dir
 
